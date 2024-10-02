@@ -25,7 +25,7 @@ Live Link : https://mediamaster2024.netlify.app/
 ## Technologies Used
 
 - **Frontend**: React.js
-- **State Management**: React Hooks
+- **State Management**: React Hooks with Context Api and usereducer
 - **Styling**: Tailwind CSS
 - **Backend**: Firebase (Firestore and Storage)
 - **Image Manipulation**: Remove.bg API
