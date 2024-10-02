@@ -2,6 +2,8 @@
 
 Welcome to **MediaMaster**! This project is designed to provide a seamless way to upload, preview, and manipulate media files, including images, audio, video, and PDF documents. With built-in support for background removal on images, MediaMaster allows users to enhance their media effortlessly.
 
+Live Link : https://mediamaster2024.netlify.app/
+
 ## Table of Contents
 
 - [Features](#features)
